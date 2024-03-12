@@ -21,4 +21,4 @@ In this lab, you will know how to automate the creation of an ALB infrastructure
 **Link github**: [workshop01](https://github.com/lenhattan2313/workshop01)
 
 This is the architecture we will make in this lab:
-![VPC](images/1-Introduce/architecture.png)
+![VPC](../images/1-Introduce/architecture.png)

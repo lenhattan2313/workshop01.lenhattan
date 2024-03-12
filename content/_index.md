@@ -11,7 +11,7 @@ chapter: false
 
 In this lab, you will explore how to setup VPC, EC2, Application Load Balancer, Route53 and ACM with Terraform.
 
-![VPC](../images/1-Introduce/architecture.png)
+![VPC](images/1-Introduce/architecture.png)
 
 #### Content
 
