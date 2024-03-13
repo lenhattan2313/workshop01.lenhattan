@@ -22,7 +22,7 @@ Link to install: [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/gett
 
 **Terraform CLI** is a command-line interface tool that enables you to manage Infrastructure as Code (IaC) using the HashiCorp Configuration Language (HCL). With Terraform CLI, you can define, provision, and manage infrastructure resources in a human-readable format that can be versioned, reused, and shared across teams.
 
-Link to install: [Terraform CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+Link to install: [Terraform CLI](https://developer.hashicorp.com/terraform/install)
 
 ### Contents
 
