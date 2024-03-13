@@ -27,5 +27,5 @@ Link to install: [Terraform CLI](https://docs.aws.amazon.com/cli/latest/userguid
 ### Contents
 
 - [IAM user](2.1-iam-user/)
-- [AWS CLU](2.2-aws-cli/)
+- [AWS CLI](2.2-aws-cli/)
 - [Terraform](2.3-terraform/)

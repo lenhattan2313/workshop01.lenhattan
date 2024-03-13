@@ -61,6 +61,8 @@ We will check this record in **ACM** have the same value in **Route53**
 ![ACM](../../images/5-Route53/result-record-acm.png)
 ![ACM](../../images/5-Route53/result-record-check.png)
 
+After configuring all of resources, we execute the **`terraform apply --auto-approve`** command to automatically create the specified resources on AWS without requiring manual confirmation at each step
+
 ## RESULT
 
 ![RESULT](../../images/5-Route53/result1.png)

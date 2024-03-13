@@ -83,3 +83,9 @@ terraform {
 }
 
 ```
+
+After configuring the provider and setting up the S3 backend, we execute the **`terraform init`** command to initialize Terraform and prepare the working directory for further operations.
+
+```
+terraform init
+```
